@@ -8,6 +8,7 @@ The following repo containers a list of workflows that use BioContainers tools. 
 - Short name (Optional if provided in the repo)
 - Short description (Between 50-200 characters). (Optional inf provided in the repo)
 - License (Optional if provided in the repo). 
+- Type (NF, CWL, SN)
 
 How to contribute
 -------------------
