@@ -370,7 +370,7 @@ kratikanaskulwar,https://github.com/kratikanaskulwar/kmerextraction,kratikanasku
 vinujose,https://github.com/vinujose/nxfSingularity,vinujose/nxfSingularity,A sample workflow using Singularity containers and Nextflow.,,NF
 AlfredUg,https://github.com/AlfredUg/qiime2-pipeline,AlfredUg/qiime2-pipeline,qiime2 pipeline for analysis of 16S rRNA microbiome data,,NF
 caspargross,https://github.com/caspargross/HybridAssembly,caspargross/HybridAssembly,Nextflow pipeline for hybrid assembly combining short read (Illumina) and long read (Nanopore) data.,,NF
-mchimenti,https://github.com/mchimenti/ATAC_seq_nextflow,mchimenti/ATAC_seq_nextflow,A "bare bones" ATAC_seq pipeline using NGmerge/Genrich from Harvard FAS best practices ,,NF
+mchimenti,https://github.com/mchimenti/ATAC_seq_nextflow,mchimenti/ATAC_seq_nextflow,A bare bones ATAC_seq pipeline using NGmerge/Genrich from Harvard FAS best practices ,,NF
 noelnamai,https://github.com/noelnamai/thesis,noelnamai/thesis,A Large Scale  Cloud Based  Low Cost and Reproducible Mutation Calling Pipeline Using Docker Containers,,NF
 sridharsh,https://github.com/sridharsh/NextGenSeeker,sridharsh/NextGenSeeker,,,NF
 ncsa,https://github.com/ncsa/GenomicsCortextVarNextflow,ncsa/GenomicsCortextVarNextflow,,,NF
