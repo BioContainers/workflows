@@ -12,7 +12,7 @@ The following repo containers a list of workflows that use BioContainers tools. 
 How to contribute
 -------------------
 
-Please fork the following repo and edit the `workflows.csv` file and perform a PR. 
+Please fork the following repo and edit the `workflows.csv` file and perform a Pull Request. 
 
 Accepted Workflow Engines
 ----------------------------
