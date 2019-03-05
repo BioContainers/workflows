@@ -13,7 +13,8 @@ The user should provide for each workflow the following fields:
 Accepted Workflow Engines
 ----------------------------
 
-[Nextflow](https://www.nextflow.io/)
-[CWL](https://www.commonwl.org/)
+- [Nextflow](https://www.nextflow.io/)
+
+- [CWL](https://www.commonwl.org/)
 
 
