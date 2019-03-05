@@ -21,4 +21,8 @@ Accepted Workflow Engines
 
 - [CWL](https://www.commonwl.org/)
 
+- [Snakemake](https://snakemake.readthedocs.io/en/stable/)
+
+
+
 
