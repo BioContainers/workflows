@@ -22,7 +22,6 @@ AndersenLab,https://github.com/AndersenLab/nil-ril-nf,AndersenLab/nil-ril-nf,Nex
 AndersenLab,https://github.com/AndersenLab/SEmRNA-seq-nf,AndersenLab/SEmRNA-seq-nf,mRNA-seq pipeline,MIT,NF
 AndersenLab,https://github.com/AndersenLab/trimmomatic-nf,AndersenLab/trimmomatic-nf,,MIT,NF
 AndersenLab,https://github.com/AndersenLab/wi-nf,AndersenLab/wi-nf,,MIT,NF
-andreas-wilm,https://github.com/andreas-wilm/nf-core-bacass,andreas-wilm/nf-core-bacass,Simple bacterial assembly and annotation pipeline,MIT,NF
 apeltzer,https://github.com/apeltzer/IGCG-featureCounts,apeltzer/IGCG-featureCounts,A Nextflow script to run featureCounts on RNAseq BAM files on ICGC in AWS (with AWS Batch),MIT,NF
 arontommi,https://github.com/arontommi/nf-mixcr,arontommi/nf-mixcr,,,NF
 arzwa,https://github.com/arzwa/whaleprep,arzwa/whaleprep,Nextflow pipeline for preparatory analyses for Whale,,NF
@@ -69,7 +68,6 @@ ccario83,https://github.com/ccario83/workflows,ccario83/workflows,Some nextflow 
 cellgeni,https://github.com/cellgeni/cbdemux,cellgeni/cbdemux,Demultiplex bam files on CB field and compute rudimentary per-sample QC,,NF
 chdem,https://github.com/chdem/nxf_course,chdem/nxf_course,,,NF
 ChristopherBarrington,https://github.com/ChristopherBarrington/nf-core-hic,ChristopherBarrington/nf-core-hic,,MIT,NF
-chuan-wang,https://github.com/chuan-wang/NGI-ChIPseq,chuan-wang/NGI-ChIPseq,Nextflow ChIP-seq data analysis pipeline  National Genomics Infrastructure  Science for Life Laboratory in Stockholm,MIT,NF
 cimendes,https://github.com/cimendes/metaFlow,cimendes/metaFlow,A nextflow implementation of a metagenomics pipeline,,NF
 ClaudiuCreanga,https://github.com/ClaudiuCreanga/nextflow,ClaudiuCreanga/nextflow,,,NF
 Clinical-Genomics-Lund,https://github.com/Clinical-Genomics-Lund/nextflow_test,Clinical-Genomics-Lund/nextflow_test,Proof-on-concet pipeline using Nextflow + Singularity + SLURM,,NF
@@ -82,7 +80,6 @@ CRG-CNAG,https://github.com/CRG-CNAG/EOSC-Pilot,CRG-CNAG/EOSC-Pilot,EOSC pilot p
 crickbabs,https://github.com/crickbabs/BABS-aDNASeq,crickbabs/BABS-aDNASeq,An ancient DNA nextflow analysis pipeline,NOASSERTION,NF
 crickbabs,https://github.com/crickbabs/BABS-RNASeq,crickbabs/BABS-RNASeq,RNASeq Best Practice Analysis,MIT,NF
 crickbabs,https://github.com/crickbabs/nextflow_toolbox,crickbabs/nextflow_toolbox,A toy Nextflow pipeline that contains useful programming constructs,,NF
-crickbabs,https://github.com/crickbabs/nf-core-atacseq,crickbabs/nf-core-atacseq,See the main fork of this repository here >>> ,MIT,NF
 crickbabs,https://github.com/crickbabs/qualityControl_byBABS,crickbabs/qualityControl_byBABS,Nextflow Quality Control Analysis Pipeline,,NF
 crickbabs,https://github.com/crickbabs/rnaSeq_byBABS,crickbabs/rnaSeq_byBABS,Nextflow RNA-Seq Analysis Pipeline,,NF
 csawye01,https://github.com/csawye01/nf-core-demultiplex,csawye01/nf-core-demultiplex,Demultiplexing pipeline for Illumina data,MIT,NF
@@ -130,8 +127,6 @@ evanfloden,https://github.com/evanfloden/sra-dump-nf,evanfloden/sra-dump-nf,Some
 evanfloden,https://github.com/evanfloden/tuxedo-nf,evanfloden/tuxedo-nf,A Nextflow implementation of the Tuxedo Suite of Tools: HISAT  StringTie & Ballgown,,NF
 evanfloden,https://github.com/evanfloden/vast-tools-nf,evanfloden/vast-tools-nf,A Nextflow Implementation of VAST-TOOLS for profiling alternative splicing events in RNA-Seq data,,NF
 evolbioinfo,https://github.com/evolbioinfo/booster-workflows,evolbioinfo/booster-workflows,,,NF
-ewels,https://github.com/ewels/nf-core-cookiecutter,ewels/nf-core-cookiecutter,DEPRECIATED! Please use nf-core/tools instead,MIT,NF
-ewels,https://github.com/ewels/nf-core-rnaseq,ewels/nf-core-rnaseq,See the main fork of this repository here >>> ,MIT,NF
 fagnerdias,https://github.com/fagnerdias/ProjetoB,fagnerdias/ProjetoB,,,NF
 faithman,https://github.com/faithman/Single_end_mRNAseq-nf,faithman/Single_end_mRNAseq-nf,For single end RNA-seq  quality control,,NF
 faithman,https://github.com/faithman/subsample-nf,faithman/subsample-nf,Use seqtk to subsample the RNA-seq data,,NF
@@ -289,10 +284,25 @@ nextflow-io,https://github.com/nextflow-io/rnaseq-nf,nextflow-io/rnaseq-nf,A pro
 nextflow-io,https://github.com/nextflow-io/rnatoy,nextflow-io/rnatoy,A proof of concept RNA-Seq pipeline with Nextflow,,NF
 nextflow-io,https://github.com/nextflow-io/tests,nextflow-io/tests,Nextflow tests,Apache-2.0,NF
 nf-core,https://github.com/nf-core/ampliseq,nf-core/ampliseq,16S rRNA amplicon sequencing analysis workflow using QIIME2,MIT,NF
-nf-core,https://github.com/nf-core/configs,nf-core/configs,Config files used to define parameters specific to compute environments at different Institutions.,MIT,NF
+nf-core,https://github.com/nf-core/atacseq,nf-core/atacseq,UNDER CONSTRUCTION: ATAC-seq peak-calling and differential analysis pipeline.,MIT,NF
+nf-core,https://github.com/nf-core/bacass,nf-core/bacass,Simple bacterial assembly and annotation pipeline,MIT,NF
+nf-core,https://github.com/nf-core/bcellmagic,nf-core/bcellmagic,"B/T cell repertoire analysis pipeline with immcantation framework. WIP, currently requires a bunch of changes first.",MIT,NF
+nf-core,https://github.com/nf-core/chipseq,nf-core/chipseq,Chromatin immunoprecipitation (ChIP-seq) analysis using BWA and MACS2 with QC steps.,MIT,NF
+nf-core,https://github.com/nf-core/ddamsproteomics,nf-core/ddamsproteomics,Quant proteomics as practiced at Lehti\u00f6 lab for NF-core,MIT,NF
+nf-core,https://github.com/nf-core/deepvariant,nf-core/deepvariant,Google's DeepVariant variant caller as a Nextflow pipeline,MIT,NF
 nf-core,https://github.com/nf-core/eager,nf-core/eager,A fully reproducible and state of the art ancient DNA analysis pipeline.,MIT,NF
+nf-core,https://github.com/nf-core/epitopeprediction,nf-core/epitopeprediction,A bioinformatics best-practice analysis pipeline for epitope prediction and annotation,MIT,NF
+nf-core,https://github.com/nf-core/exoseq,nf-core/exoseq,Exome Sequencing analysis pipeline (Work in progress),MIT,NF
+nf-core,https://github.com/nf-core/hlatyping,nf-core/hlatyping,Precision HLA typing from next-generation sequencing data,MIT,NF
+nf-core,https://github.com/nf-core/lncpipe,nf-core/lncpipe,UNDER DEVELOPMENT--- A Nextflow-based pipeline for comprehensive analyses of long non-coding RNAs from RNA-seq datasets,MIT,NF
 nf-core,https://github.com/nf-core/mag,nf-core/mag,Assembly and binning of metagenomes,MIT,NF
+nf-core,https://github.com/nf-core/methylseq,nf-core/methylseq,Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel,MIT,NF
+nf-core,https://github.com/nf-core/mhcquant,nf-core/mhcquant,Identify and quantify peptides from mass spectrometry raw data,MIT,NF
 nf-core,https://github.com/nf-core/nascent,nf-core/nascent,UNDER CONSTRUCTION - Nascent Transcription Processing Pipeline,MIT,NF
+nf-core,https://github.com/nf-core/neutronstar,nf-core/neutronstar,De novo assembly pipeline for 10X linked-reads using Supernova,MIT,NF
+nf-core,https://github.com/nf-core/rnafusion,nf-core/rnafusion,RNA-seq analysis pipeline for detection gene-fusions,MIT,NF
+nf-core,https://github.com/nf-core/rnaseq,nf-core/rnaseq,"RNA sequencing analysis pipeline using STAR or HISAT2, with gene counts and quality control",MIT,NF
+nf-core,https://github.com/nf-core/smrnaseq,nf-core/smrnaseq,Analysis pipeline for small-RNA sequencing data.,MIT,NF
 nf-core,https://github.com/nf-core/vipr,nf-core/vipr,Assembly and intrahost / low-frequency variant calling for viral samples,MIT,NF
 noelnamai,https://github.com/noelnamai/thesis,noelnamai/thesis,A Large Scale  Cloud Based  Low Cost and Reproducible Mutation Calling Pipeline Using Docker Containers,,NF
 NorwegianVeterinaryInstitute,https://github.com/NorwegianVeterinaryInstitute/Bifrost,NorwegianVeterinaryInstitute/Bifrost,,NOASSERTION,NF
@@ -326,7 +336,6 @@ QuentinLetourneur,https://github.com/QuentinLetourneur/Let-it-bin,QuentinLetourn
 rbpisupati,https://github.com/rbpisupati/nf-haplocaller,rbpisupati/nf-haplocaller,Nextflow pipeline for GATK best practices (HaplotypeCaller),MIT,NF
 Reda94,https://github.com/Reda94/GDC-RNAseq-pipeline,Reda94/GDC-RNAseq-pipeline,Implementation of GDC's (Genomic Data Commons) RNA-seq analysis pipeline (data release version 14.0) using Nextflow.,,NF
 Reda94,https://github.com/Reda94/QuantSeq-3-prime-FWD-RNAseq-pipeline,Reda94/QuantSeq-3-prime-FWD-RNAseq-pipeline,Implementation of the RNA-Seq analysis pipeline used on sequencing data obtained from Lexogen's QuantSeq FWD 3' mRNA-Seq kit.,,NF
-remiolsen,https://github.com/remiolsen/nf-core-neutronstar,remiolsen/nf-core-neutronstar,Main fork is here: https://github.com/SciLifeLab/NGI-NeutronStar,MIT,NF
 remiolsen,https://github.com/remiolsen/nf-core-radseq,remiolsen/nf-core-radseq,Pipeline for QC of RAD-seq data,MIT,NF
 renatomsoares,https://github.com/renatomsoares/ProjetosMetodosFormais,renatomsoares/ProjetosMetodosFormais,,,NF
 renyiwu,https://github.com/renyiwu/hpc,renyiwu/hpc,,,NF
