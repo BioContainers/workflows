@@ -36,7 +36,6 @@ Biocentric,https://github.com/Biocentric/rnaseq_debug,Biocentric/rnaseq_debug,Ne
 biocorecrg,https://github.com/biocorecrg/C4LWG-2018,biocorecrg/C4LWG-2018,Hands-on tutorial on Nextflow and Containers (Docker and Singularity). Paris 2018.,GPL-3.0,NF
 biocorecrg,https://github.com/biocorecrg/goodbioinfo2018,biocorecrg/goodbioinfo2018,Course on good practice in bioinformatics,,NF
 biocorecrg,https://github.com/biocorecrg/indrop,biocorecrg/indrop,Single cell transcriptome analysis pipeline based on DropEst ,MPL-2.0,NF
-biocorecrg,https://github.com/biocorecrg/indrop,biocorecrg/indrop,Single cell transcriptome analysis pipeline based on DropEst ,MPL-2.0,NF
 biocorecrg,https://github.com/biocorecrg/vectorQC,biocorecrg/vectorQC,A Nextflow pipeline for assembling vectors and extract annotations,MPL-2.0,NF
 bioinfo-dirty-jobs,https://github.com/bioinfo-dirty-jobs/Data,bioinfo-dirty-jobs/Data,,,NF
 bioinfocz,https://github.com/bioinfocz/scripts,bioinfocz/scripts,Some of our scripts which could be useful.,MIT,NF
@@ -153,7 +152,6 @@ Gregor-Mendel-Institute,https://github.com/Gregor-Mendel-Institute/isoseq3,Grego
 Gregor-Mendel-Institute,https://github.com/Gregor-Mendel-Institute/kWIP-nf,Gregor-Mendel-Institute/kWIP-nf,A nextflow pipeline to estimate sample (dis)similarity using kWIP,MIT,NF
 guigolab,https://github.com/guigolab/chip-nf,guigolab/chip-nf,An automated ChIP-seq pipeline using Nextfow,,NF
 guigolab,https://github.com/guigolab/sambamBench-nf,guigolab/sambamBench-nf,A simple Nextflow pipeline for testing the performance of sambamba vs samtools,LGPL-3.0,NF
-Gustius,https://github.com/Gustius/MOFA,Gustius/MOFA,,MIT,NF
 Gustius,https://github.com/Gustius/MOFA,Gustius/MOFA,,MIT,NF
 h3abionet,https://github.com/h3abionet/chipimputation,h3abionet/chipimputation,Genotype Imputation Pipeline for H3Africa,MIT,NF
 h3abionet,https://github.com/h3abionet/recalling,h3abionet/recalling,Scripts for recalling several available datasets. The final output will be used by different H3A projects  e.g. ADME  refpanel.,MIT,NF
@@ -328,7 +326,6 @@ QuentinLetourneur,https://github.com/QuentinLetourneur/Let-it-bin,QuentinLetourn
 rbpisupati,https://github.com/rbpisupati/nf-haplocaller,rbpisupati/nf-haplocaller,Nextflow pipeline for GATK best practices (HaplotypeCaller),MIT,NF
 Reda94,https://github.com/Reda94/GDC-RNAseq-pipeline,Reda94/GDC-RNAseq-pipeline,Implementation of GDC's (Genomic Data Commons) RNA-seq analysis pipeline (data release version 14.0) using Nextflow.,,NF
 Reda94,https://github.com/Reda94/QuantSeq-3-prime-FWD-RNAseq-pipeline,Reda94/QuantSeq-3-prime-FWD-RNAseq-pipeline,Implementation of the RNA-Seq analysis pipeline used on sequencing data obtained from Lexogen's QuantSeq FWD 3' mRNA-Seq kit.,,NF
-remiolsen,https://github.com/remiolsen/nf-core-neutronstar,remiolsen/nf-core-neutronstar,Main fork is here: https://github.com/SciLifeLab/NGI-NeutronStar,MIT,NF
 remiolsen,https://github.com/remiolsen/nf-core-neutronstar,remiolsen/nf-core-neutronstar,Main fork is here: https://github.com/SciLifeLab/NGI-NeutronStar,MIT,NF
 remiolsen,https://github.com/remiolsen/nf-core-radseq,remiolsen/nf-core-radseq,Pipeline for QC of RAD-seq data,MIT,NF
 renatomsoares,https://github.com/renatomsoares/ProjetosMetodosFormais,renatomsoares/ProjetosMetodosFormais,,,NF
