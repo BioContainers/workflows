@@ -1,4 +1,5 @@
 author,git-repo,name,description,license,type
+sndrtj,https://github.com/LUMC/hutspot,LUMC/hutspot,Multisample DNAseq variant calling pipeline for use in diagnostics,AGPL-3.0,SN
 abradle,https://github.com/abradle/nf-ena,abradle/nf-ena,,,NF
 abremges,https://github.com/abremges/TreeHugger,abremges/TreeHugger,Phylogenetic assignment and tree inference using defined marker gene sets,Apache-2.0,NF
 abremges,https://github.com/abremges/x,abremges/x,,,NF
